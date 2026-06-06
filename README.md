@@ -5,6 +5,7 @@ This repository contains two Python-based cricket analytics projects:
 
    
 Project 1: IPL Match Data Web Scraping
+
 Description
 This project collects IPL match statistics from the HowStat cricket website using web scraping techniques. The scraped data is cleaned, transformed, and exported into a CSV file for further analysis.
 Features
